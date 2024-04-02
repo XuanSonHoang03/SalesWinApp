@@ -1,0 +1,128 @@
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmCart.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmChooseManagement.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMember.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMemberManagement.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrderManagement.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProductManagement.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.sourcelink.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProduct.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProductOrder.resources
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMyOrder.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.exe
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.deps.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.runtimeconfig.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.AssemblyReference.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmChooseManagement.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmLogin.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMember.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMemberManagement.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmMyOrder.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmOrderManagement.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProduct.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProductManagement.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmProductOrder.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.frmCart.resources
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.GenerateResource.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfoInputs.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.AssemblyInfo.cs
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CoreCompileInputs.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.sourcelink.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.csproj.CopyComplete
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\refint\SalesWinApp.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\SalesWinApp.genruntimeconfig.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\SalesWinApp\obj\Debug\net6.0-windows\ref\SalesWinApp.dll

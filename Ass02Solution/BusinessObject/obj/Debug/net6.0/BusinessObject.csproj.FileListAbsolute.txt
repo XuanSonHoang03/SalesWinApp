@@ -1,0 +1,24 @@
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.sourcelink.json
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Ki5-SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.sourcelink.json
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Ki 5- SP24\PRN211\Github\Ass02Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
